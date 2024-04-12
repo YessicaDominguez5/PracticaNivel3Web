@@ -1,31 +1,45 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace aprendiendo
 {
     public partial class About : Page
     {
+        public string user { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
-            if(Request.QueryString["nombre"] != null)
+
+            user = Session["usuario"]?.ToString();
+            //var variable = Request.QueryString["nombre"];
+
+            if (user != null)
             {
 
-            string user = Request.QueryString["nombre"].ToString();
-            labelUser.Text = user + " bienvenido al About section";
+                if (user != "")
+                {
+
+                    //user = Request.QueryString["nombre"].ToString();
+                    labelUser.Text = user + " tu ingreso fue exitoso!";
+
+
+
+                }
+                else
+                {
+
+                    labelUser.Text = "No pudiste Ingresar";
+
+                }
+
 
 
             }
             else
             {
-            labelUser.Text = " ";
+                labelUser.Text = "No pudiste Ingresar";
 
 
             }
-
 
         }
 

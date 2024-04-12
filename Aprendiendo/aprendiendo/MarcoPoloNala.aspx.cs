@@ -17,8 +17,14 @@ namespace aprendiendo
         protected void BtnAceptar_Click(object sender, EventArgs e)
         {
             string nombre = TxtNombre.Text;
+            string password = TxtPass.Text;
+
+            Session.Add("usuario", nombre);
+            Session.Add("pass", password);
+
             LabelBienvenida.Text = "Hola " + nombre;
-            Response.Redirect("About.aspx?nombre=" + nombre, false);
+            //Response.Redirect("About.aspx?nombre=" + nombre + "&pass=" + TxtPass.Text, false);
+            Response.Redirect("About.aspx", false);
         }
 
         protected void TxtNombre_TextChanged(object sender, EventArgs e)

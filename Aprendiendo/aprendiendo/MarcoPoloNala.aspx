@@ -6,6 +6,7 @@
     <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     <asp:Label ID="LabelInstruccion" runat="server" Text="Ingrese su nombre:"></asp:Label>
     <asp:TextBox ID="TxtNombre" runat="server" OnTextChanged="TxtNombre_TextChanged"></asp:TextBox>
+    <asp:TextBox ID="TxtPass" runat="server"></asp:TextBox>
     <asp:Button ID="BtnAceptar" runat="server" OnClick="BtnAceptar_Click" Text="ACEPTAR" />
     <asp:Label ID="LabelBienvenida" runat="server" Text=""></asp:Label>
     <asp:Label ID="LabelSecundaria" runat="server" Text=""></asp:Label>
