@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|c:\\users\\juaniyeppi\\documents\\nivel3maxiprograma\\primeraweb\\ejemplo1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\ejemploconmaster.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\ejemploconmaster.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{64107DD3-2EE4-4BA8-90C7-421E2E323C16}|ejemplo1\\ejemplo1.csproj|solutionrelative:ejemplo1\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Default.aspx",
+              "RelativeDocumentMoniker": "ejemplo1\\Default.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Default.aspx",
+              "RelativeToolTip": "ejemplo1\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-27T18:28:44.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Default.aspx.cs",
+              "RelativeToolTip": "ejemplo1\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:57:17.239Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejemploConMaster.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploConMaster.aspx.cs",
+              "RelativeDocumentMoniker": "ejemplo1\\ejemploConMaster.aspx.cs",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploConMaster.aspx.cs",
+              "RelativeToolTip": "ejemplo1\\ejemploConMaster.aspx.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwB0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:12:42.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ejemploConMaster.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploConMaster.aspx",
+              "RelativeDocumentMoniker": "ejemplo1\\ejemploConMaster.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\ejemploConMaster.aspx",
+              "RelativeToolTip": "ejemplo1\\ejemploConMaster.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T20:56:42.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Site.Master",
+              "RelativeDocumentMoniker": "ejemplo1\\Site.Master",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\primeraWeb\\ejemplo1\\Site.Master",
+              "RelativeToolTip": "ejemplo1\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-24T20:52:19.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
