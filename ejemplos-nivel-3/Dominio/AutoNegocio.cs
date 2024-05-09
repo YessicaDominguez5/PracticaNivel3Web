@@ -24,7 +24,7 @@ namespace Dominio
 
 
             lista[1].Id = 2;
-            lista[1].Modelo = "Focua";
+            lista[1].Modelo = "Focus";
             lista[1].Descripcion = "Auto de Rally";
             lista[1].Color = "Negro";
             lista[1].Fecha = DateTime.Now;

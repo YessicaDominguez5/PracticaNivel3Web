@@ -13,7 +13,8 @@ namespace ejemplo_web
         protected void Page_Load(object sender, EventArgs e)
         {
             AutoNegocio negocio = new AutoNegocio();
-            dgvAutos.DataSource = negocio.listar();
+            Session.Add("listaAutos", negocio.listar());
+            dgvAutos.DataSource = Session["listaAutos"];
             dgvAutos.DataBind();
         }
     }
