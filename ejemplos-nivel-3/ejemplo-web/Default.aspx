@@ -8,6 +8,8 @@
 
         <div class="col">
 
+            <%--aca crea la grilla--%>
+
     <asp:GridView ID="dgvAutos" CssClass="table table-dark table-bordered" autogenerateColumns="false" runat ="server">
 
         <Columns>

@@ -9,6 +9,9 @@ namespace Dominio
     {
         public List<Auto> listar()
         {
+            //datos predeterminados 
+            //metodo de negocio que retorna una lista
+
             List<Auto> lista = new List<Auto>();
            
             lista.Add(new Auto());

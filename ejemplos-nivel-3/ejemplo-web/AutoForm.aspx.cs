@@ -43,10 +43,12 @@ namespace ejemplo_web
             //((List<Auto>)Session["listaAutos"]).Add(a);
 
 
-            List<Auto> temporal = new List<Auto>();
-            temporal = (List<Auto>)Session["listaAutos"];
-            temporal.Add(a);
-            Response.Redirect("Default.aspx");
+            List<Auto> temporal = (List<Auto>)Session["listaAutos"];/* Hacer una copia de lo que trae la session en este caso los 2 datos predeterminados*/
+            temporal.Add(a); /*Agregarele un tercer dato con los valores cargados en el form*/
+
+            Session["listaAutos"] = temporal; /*Esos 3 datos guardarlos en la session*/
+
+            Response.Redirect("Default.aspx"); /*cuando apretas aceptar te lleva a la grilla*/
         }
     }
 }

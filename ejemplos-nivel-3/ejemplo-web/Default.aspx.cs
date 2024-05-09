@@ -12,8 +12,15 @@ namespace ejemplo_web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            AutoNegocio negocio = new AutoNegocio();
-            Session.Add("listaAutos", negocio.listar());
+            //Aca carga la grilla
+
+            if (Session["listaAutos"] == null) /*si es la primera vez que venis al page load carga los datos predeterminados*/
+            {
+
+                AutoNegocio negocio = new AutoNegocio();
+                Session.Add("listaAutos", negocio.listar()); /*Listar devuelve una lista con datos predeterminados*/
+
+            }
             dgvAutos.DataSource = Session["listaAutos"];
             dgvAutos.DataBind();
         }
