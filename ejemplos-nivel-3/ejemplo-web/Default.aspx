@@ -10,7 +10,7 @@
 
             <%--aca crea la grilla--%>
 
-    <asp:GridView ID="dgvAutos" CssClass="table table-dark table-bordered" autogenerateColumns="false" runat ="server">
+    <asp:GridView ID="dgvAutos" DataKeyNames="Id" OnSelectedIndexChanged="dgvAutos_SelectedIndexChanged" CssClass="table table-dark table-bordered" autogenerateColumns="false" runat ="server">
 
         <Columns>
 
@@ -18,6 +18,7 @@
             <asp:BoundField HeaderText="Color" DataField="Color" />
             <asp:CheckBoxField HeaderText="Usado" DataField="Usado" />
             <asp:CheckBoxField HeaderText="Importado" DataField="Importado" />
+            <asp:CommandField ShowSelectButton="true" SelectText="Seleccionar" HeaderText="Acción"/>
 
 
 

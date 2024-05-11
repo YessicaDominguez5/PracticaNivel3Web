@@ -19,7 +19,7 @@
             <%--Pone el Modelo con el campo para escribir--%>
 
             <label for="txtModelo" class="form-label">MODELO</label>
-            <asp:TextBox ID="txtModelo" CssClass="form-control" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtModelo" CssClass="form-control" runat="server" ></asp:TextBox>
 
 
         </div>
@@ -76,16 +76,13 @@
             <%--boton aceptar y cancelar   --%>
 
             <asp:Button ID="btnAceptar" Text="ACEPTAR" CssClass="btn btn-primary" OnClick="btnAceptar_Click" runat="server" />
+           
+            <asp:Button ID="btnModificar" runat="server" Text="MODIFICAR" CssClass="btn btn-primary" OnClick="btnModificar_Click" />
+             
+            <asp:Button ID="btnEliminar" runat="server" Text="ELIMINAR" CssClass="btn btn-danger" OnClick="btnEliminar_Click" />
+
             <a href="Default.aspx">CANCELAR</a>
-
-
         </div>
-
-
-
-
-
-
 
 
 
