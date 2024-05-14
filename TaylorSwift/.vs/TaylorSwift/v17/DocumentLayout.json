@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|c:\\users\\juaniyeppi\\documents\\nivel3maxiprograma\\taylorswift\\ts\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|solutionrelative:ts\\form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\ts\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|solutionrelative:ts\\form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\ts\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|solutionrelative:ts\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\ts\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67330A5D-F477-4DD3-AAB3-12904F0ED630}|TS\\TS.csproj|solutionrelative:ts\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C807872-3B00-4891-A66F-B2C96A5F87F3}|dominio\\dominio.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\dominio\\tsalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C807872-3B00-4891-A66F-B2C96A5F87F3}|dominio\\dominio.csproj|solutionrelative:dominio\\tsalbums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Default.aspx",
+              "RelativeDocumentMoniker": "TS\\Default.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Default.aspx",
+              "RelativeToolTip": "TS\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-12T11:46:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TS\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Default.aspx.cs",
+              "RelativeToolTip": "TS\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAEwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:57:25.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Form.aspx.cs",
+              "RelativeDocumentMoniker": "TS\\Form.aspx.cs",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Form.aspx.cs",
+              "RelativeToolTip": "TS\\Form.aspx.cs",
+              "ViewState": "AQIAACAAAAAAMTMzMzMVwCkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:22:21.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.aspx",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Form.aspx",
+              "RelativeDocumentMoniker": "TS\\Form.aspx",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\TS\\Form.aspx",
+              "RelativeToolTip": "TS\\Form.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-12T22:17:33.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tsAlbums.cs",
+              "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\dominio\\tsAlbums.cs",
+              "RelativeDocumentMoniker": "dominio\\tsAlbums.cs",
+              "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\TaylorSwift\\dominio\\tsAlbums.cs",
+              "RelativeToolTip": "dominio\\tsAlbums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:38:35.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

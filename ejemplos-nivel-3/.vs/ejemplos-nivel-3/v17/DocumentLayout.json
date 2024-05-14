@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|c:\\users\\juaniyeppi\\documents\\nivel3maxiprograma\\practicanivel3web\\ejemplos-nivel-3\\ejemplo-web\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|solutionrelative:ejemplo-web\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\autoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|solutionrelative:ejemplo-web\\autoform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
@@ -15,7 +11,11 @@
       "RelativeMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|solutionrelative:ejemplo-web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|solutionrelative:ejemplo-web\\autoform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|c:\\users\\juaniyeppi\\documents\\nivel3maxiprograma\\practicanivel3web\\ejemplos-nivel-3\\ejemplo-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8C7BF229-3D92-417D-8B89-88C8283AB48F}|ejemplo-web\\ejemplo-web.csproj|solutionrelative:ejemplo-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AutoForm.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\AutoForm.aspx.cs",
               "RelativeDocumentMoniker": "ejemplo-web\\AutoForm.aspx.cs",
               "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\AutoForm.aspx.cs",
               "RelativeToolTip": "ejemplo-web\\AutoForm.aspx.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAawKYAAAAUAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAlwAwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:57:27.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AutoForm.aspx",
               "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\AutoForm.aspx",
               "RelativeDocumentMoniker": "ejemplo-web\\AutoForm.aspx",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Default.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\Default.aspx.cs",
               "RelativeDocumentMoniker": "ejemplo-web\\Default.aspx.cs",
               "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\Default.aspx.cs",
               "RelativeToolTip": "ejemplo-web\\Default.aspx.cs",
-              "ViewState": "AQIAABAAAAAgAAAAAAAqwBAAAAAMAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAEwB8AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T20:42:58.992Z",
               "EditorCaption": ""
@@ -95,7 +95,7 @@
               "RelativeDocumentMoniker": "Dominio\\AutoNegocio.cs",
               "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\Dominio\\AutoNegocio.cs",
               "RelativeToolTip": "Dominio\\AutoNegocio.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCEAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T20:24:43.004Z"
             },
@@ -132,7 +132,6 @@
               "RelativeDocumentMoniker": "ejemplo-web\\Master.Master",
               "ToolTip": "C:\\Users\\Juaniyeppi\\Documents\\Nivel3MaxiPrograma\\PracticaNivel3Web\\ejemplos-nivel-3\\ejemplo-web\\Master.Master",
               "RelativeToolTip": "ejemplo-web\\Master.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-28T19:38:51.046Z",
               "EditorCaption": ""
