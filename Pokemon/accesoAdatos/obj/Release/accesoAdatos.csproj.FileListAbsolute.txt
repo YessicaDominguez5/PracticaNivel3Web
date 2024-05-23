@@ -1,0 +1,6 @@
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\bin\Release\accesoAdatos.dll
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\bin\Release\accesoAdatos.pdb
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\obj\Release\accesoAdatos.csproj.AssemblyReference.cache
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\obj\Release\accesoAdatos.csproj.CoreCompileInputs.cache
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\obj\Release\accesoAdatos.dll
+C:\Users\Yeppi\Documents\TPFinalNivel2_Dominguez\TPFinalNivel2_Dominguez\accesoAdatos\obj\Release\accesoAdatos.pdb
