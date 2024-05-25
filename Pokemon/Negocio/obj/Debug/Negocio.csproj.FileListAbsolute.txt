@@ -31,3 +31,14 @@ C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Negocio\obj\Debug\negocio
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Negocio\obj\Debug\negocio.csproj.CopyComplete
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Negocio\obj\Debug\Negocio.dll
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\Negocio.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\accesoAdatos.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\Clases.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\accesoAdatos.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\bin\Debug\Clases.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\obj\Debug\Negocio.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Negocio\obj\Debug\Negocio.pdb

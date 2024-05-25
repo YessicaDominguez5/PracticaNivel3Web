@@ -19,3 +19,12 @@ C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Clases\obj\Debug\clases.c
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Clases\obj\Debug\clases.csproj.CopyComplete
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Clases\obj\Debug\Clases.dll
 C:\Users\Yeppi\Documents\Nivel3MaxiProgramaWEB\Pokemon\Clases\obj\Debug\Clases.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\bin\Debug\Clases.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\bin\Debug\Clases.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\bin\Debug\accesoAdatos.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\bin\Debug\accesoAdatos.pdb
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\obj\Debug\clases.csproj.AssemblyReference.cache
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\obj\Debug\clases.csproj.CoreCompileInputs.cache
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\obj\Debug\clases.csproj.Up2Date
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\obj\Debug\Clases.dll
+C:\Users\Juaniyeppi\Documents\Nivel3MaxiPrograma\PracticaNivel3Web\Pokemon\Clases\obj\Debug\Clases.pdb
