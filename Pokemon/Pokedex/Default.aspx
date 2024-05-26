@@ -7,11 +7,11 @@
     <p>Llegaste al Pokedex, sumate al mundo Pokémon</p>
 
 
+    <div class="row row-cols-1 row-cols-md-3 g-4">
     <%--<%foreach (clases.Articulo arti in ListaArticulo)
         {
             %>
 
-    <div class="row row-cols-1 row-cols-md-3 g-4">
         <div class="col">
             <div class="card">
                 <img src="<%: arti.UrlImagenArticulo%>" class="card-img-top" alt="<%arti.NombreArticulo.ToString();%>">
@@ -30,8 +30,7 @@
 
         <ItemTemplate>
 
-            <div class="row row-cols-1 row-cols-md-3 g-4">
-                <div class="col">
+                <div class="col" >
                     <div class="card">
                         <img src="<%#Eval("UrlImagenArticulo")%>" class="card-img-top" alt="<%#Eval("NombreArticulo")%>">
                         <div class="card-body">
@@ -43,7 +42,6 @@
                     </div>
                 </div>
 
-            </div>
 
 
 
@@ -53,5 +51,6 @@
 
     </asp:Repeater>
 
+            </div>
 
 </asp:Content>
